@@ -9,7 +9,7 @@ layout: reference
 
 ## <a name="introduction"></a>Introduction
 
-The event-driven Trips v5 API provides a scalable way for partners to retrieve near real-time updates for trips that are created, updated, cancelled, deleted, or anonymized. When a trip event is received, use the trip identifier and the event `href` to retrieve the current trip record with `GET /v5/trips/{tripID}`.
+The event-driven Trips v5 API provides a scalable way for partners to retrieve near real-time updates for trips that are created, updated, deleted, or anonymized. When a trip event is received, use the trip identifier and the event `href` to retrieve the current trip record with `GET /v5/trips/{tripID}`.
 
 Trips v5 is available in the US2, EU2, and APJ1 data centers.
 
